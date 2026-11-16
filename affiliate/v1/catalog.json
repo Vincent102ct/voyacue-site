@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "enabled": false,
+  "products": [
+    {
+      "id": "shopee-reuzel-grooming-cream-001",
+      "enabled": false,
+      "partner": "Shopee",
+      "campaign": "custom_link",
+      "title": {
+        "vi": "Reuzel Grooming Cream Matte Styling Paste (100 ml)",
+        "en": "Reuzel Grooming Cream Matte Styling Paste (100 ml)"
+      },
+      "url": "https://s.shopee.vn/50afLoQJCF",
+      "placements": [
+        "poseDetail"
+      ],
+      "outfitTypes": [],
+      "styles": [],
+      "scenes": [],
+      "poseIds": [],
+      "status": "unverified",
+      "checkedAt": ""
+    }
+  ]
+}
